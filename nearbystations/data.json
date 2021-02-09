@@ -1,0 +1,5528 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "timestamp_osm_base": "2021-02-09T06:58:02Z",
+    "timestamp_areas_base": "2021-02-09T06:04:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 30088443,
+      "lat": -1.3174761,
+      "lon": 36.7174405,
+      "tags": {
+        "addr:housenumber": "Ngong Rd, Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30088444,
+      "lat": -1.316594,
+      "lon": 36.7184194,
+      "tags": {
+        "addr:housenumber": "Karen/Ngong Road, P.O. Box 72876 Ngong Rd, Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092033,
+      "lat": -1.2999749,
+      "lon": 36.7886658,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092041,
+      "lat": -1.3004095,
+      "lon": 36.7807689,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092080,
+      "lat": -1.3041947,
+      "lon": 36.7461493,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092081,
+      "lat": -1.2990005,
+      "lon": 36.7597173,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "operator": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092149,
+      "lat": -1.3386102,
+      "lon": 36.7397838,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Langata Rd, Nairobi",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "name": "Total Karen Service Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092217,
+      "lat": -1.3077926,
+      "lon": 36.8226311,
+      "tags": {
+        "amenity": "fuel",
+        "name": "National Oil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092222,
+      "lat": -1.3195401,
+      "lon": 36.8371639,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Popo Rd/Mombasa Rd",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092268,
+      "lat": -1.3163372,
+      "lon": 36.8140744,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30092293,
+      "lat": -1.3427577,
+      "lon": 36.7645017,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30209215,
+      "lat": -1.2949784,
+      "lon": 36.799972,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "fuel:diesel": "yes",
+        "name": "Rubis",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30209216,
+      "lat": -1.295402,
+      "lon": 36.7997172,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Argwings Kodhek Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30210336,
+      "lat": -1.2925306,
+      "lon": 36.7870223,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Argwings Kodhek Road",
+        "amenity": "fuel",
+        "name": "Lexo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30210342,
+      "lat": -1.2920042,
+      "lon": 36.7848953,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Argwings Kodhek Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30215040,
+      "lat": -1.2929941,
+      "lon": 36.8209803,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Uhuru Highway",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30215041,
+      "lat": -1.2925138,
+      "lon": 36.8217308,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Haile Selassie Avenue",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30215045,
+      "lat": -1.291032,
+      "lon": 36.8234393,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Haile Selassie Avenue",
+        "amenity": "fuel",
+        "name": "National Oil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30317859,
+      "lat": -1.2638318,
+      "lon": 36.8030678,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:city:ar": "نيروبي",
+        "addr:street": "Ring Road Parklands",
+        "alt_name:ar": "نفط ليبيا;أويل ليبيا",
+        "amenity": "fuel",
+        "brand:wikipedia:ar": "أويليبيا",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30324284,
+      "lat": -1.2633552,
+      "lon": 36.8092403,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Parklands Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30402252,
+      "lat": -1.264944,
+      "lon": 36.8111424,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Parklands Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30402256,
+      "lat": -1.2670681,
+      "lon": 36.8117808,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ojijo Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30694189,
+      "lat": -1.2861034,
+      "lon": 36.7966312,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Dennis Pritt Road",
+        "amenity": "fuel",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30695755,
+      "lat": -1.2484062,
+      "lon": 36.7973151,
+      "tags": {
+        "addr:street": "Peponi Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30695844,
+      "lat": -1.3211267,
+      "lon": 36.8418465,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "fuel",
+        "brand": "Shell Express",
+        "brand:wikidata": "Q2289188",
+        "brand:wikipedia": "nl:Shell Express",
+        "name": "Shell Express"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30695847,
+      "lat": -1.3260301,
+      "lon": 36.8504888,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30695851,
+      "lat": -1.3310097,
+      "lon": 36.8609327,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 30695859,
+      "lat": -1.3281811,
+      "lon": 36.8824284,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Airport View"
+      }
+    },
+    {
+      "type": "node",
+      "id": 272712912,
+      "lat": -1.2380612,
+      "lon": 36.8104244,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "United Nations Avenue",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 272712980,
+      "lat": -1.238915,
+      "lon": 36.8116501,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "name": "Kobil Limuru Road"
+      }
+    },
+    {
+      "type": "node",
+      "id": 291526914,
+      "lat": -1.2639042,
+      "lon": 36.8245353,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "name": "Oilibya Parklands"
+      }
+    },
+    {
+      "type": "node",
+      "id": 291685008,
+      "lat": -1.250063,
+      "lon": 36.8205583,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "name": "Total Muthaiga Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 291685032,
+      "lat": -1.2577873,
+      "lon": 36.8271656,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295541872,
+      "lat": -1.2357937,
+      "lon": 36.8121214,
+      "tags": {
+        "amenity": "fuel",
+        "name": "United Nations Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 295829498,
+      "lat": -1.2592124,
+      "lon": 36.8185515,
+      "tags": {
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.10b",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 297479797,
+      "lat": -1.2645749,
+      "lon": 36.7566544,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Engen",
+        "brand:wikidata": "Q3054251",
+        "brand:wikipedia": "en:Engen Petroleum",
+        "name": "Engen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 490741522,
+      "lat": -1.3077371,
+      "lon": 36.8036695,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mbagathi Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 496772872,
+      "lat": -1.3135116,
+      "lon": 36.8126935,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Mbagathi Way, Nairobi",
+        "addr:street": "Mbagathi Way",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total Mbagathi Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514363900,
+      "lat": -1.284337,
+      "lon": 36.742976,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Delta",
+        "name": "Delta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 521103963,
+      "lat": -1.343276,
+      "lon": 36.665983,
+      "tags": {
+        "addr:city": "Ngong",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "Juanco Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 521104981,
+      "lat": -1.2955078,
+      "lon": 36.8022107,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Argwings Kodhek Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 521104991,
+      "lat": -1.2540368,
+      "lon": 36.7921602,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Spring Valley,",
+        "addr:street": "Lower Kabete Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 558923017,
+      "lat": -1.2982497,
+      "lon": 36.7603557,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Naivasha Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 558923029,
+      "lat": -1.288024,
+      "lon": 36.741743,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "Shell Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 575635555,
+      "lat": -1.2651532,
+      "lon": 36.7385118,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582803761,
+      "lat": -1.3104368,
+      "lon": 36.8174386,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Madaraka, Langata Rd, Nairobi",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582803762,
+      "lat": -1.306325,
+      "lon": 36.8199607,
+      "tags": {
+        "addr:housenumber": "Langata Rd, Nairobi",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "name:it": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 582803763,
+      "lat": -1.305716,
+      "lon": 36.827261,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Nairobi - Mombasa Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 610893023,
+      "lat": -1.3129433,
+      "lon": 36.8298002,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "opening_hours": "24/7",
+        "operator": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612007510,
+      "lat": -1.3186966,
+      "lon": 36.7783416,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008462,
+      "lat": -1.3150323,
+      "lon": 36.7863111,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump",
+        "opening_hours": "06:00-22:00",
+        "operator": "owner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008520,
+      "lat": -1.3115409,
+      "lon": 36.7881322,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene Pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008530,
+      "lat": -1.3128573,
+      "lon": 36.7893673,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene Pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008574,
+      "lat": -1.3129497,
+      "lon": 36.7983181,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008812,
+      "lat": -1.3145755,
+      "lon": 36.7830057,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump",
+        "opening_hours": "06:00-22:00",
+        "operator": "owner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008868,
+      "lat": -1.3146866,
+      "lon": 36.7789542,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "kerosene",
+        "name": "Community kerosine pumb"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008954,
+      "lat": -1.3125482,
+      "lon": 36.7942893,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump",
+        "operator": "Gitonga Kerosene Pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008960,
+      "lat": -1.3117272,
+      "lon": 36.7935946,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612008982,
+      "lat": -1.3125087,
+      "lon": 36.7973648,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612009002,
+      "lat": -1.3117559,
+      "lon": 36.7931029,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump",
+        "opening_hours": "07:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612009109,
+      "lat": -1.3129506,
+      "lon": 36.7997855,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612010580,
+      "lat": -1.3132105,
+      "lon": 36.7899611,
+      "tags": {
+        "amenity": "fuel",
+        "fuel": "kerosene",
+        "name": "kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 612932092,
+      "lat": -1.2535271,
+      "lon": 36.8579256,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Total Survey Service Station",
+        "operator": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 642955405,
+      "lat": -1.3056508,
+      "lon": 36.8217238,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Aerodrome Rd, Nairobi",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703562827,
+      "lat": -1.2778712,
+      "lon": 36.8830331,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total Kangundo Road Service Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703562828,
+      "lat": -1.2695777,
+      "lon": 36.8801839,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703562830,
+      "lat": -1.2498639,
+      "lon": 36.861223,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703562919,
+      "lat": -1.2469815,
+      "lon": 36.871498,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 709781367,
+      "lat": -1.2503438,
+      "lon": 36.9524332,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Midax Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 712868923,
+      "lat": -1.2937732,
+      "lon": 36.886453,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "operator": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 720900808,
+      "lat": -1.3130859,
+      "lon": 36.8268749,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kenol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 734051667,
+      "lat": -1.2569865,
+      "lon": 36.9230917,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Bee-p Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 762026098,
+      "lat": -1.3228593,
+      "lon": 36.8020606,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 812840504,
+      "lat": -1.2308394,
+      "lon": 36.8034302,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "operator": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 818583425,
+      "lat": -1.2967379,
+      "lon": 36.8764729,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Rabai Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "operator": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 900302335,
+      "lat": -1.2326022,
+      "lon": 36.8750756,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 911026324,
+      "lat": -1.2854218,
+      "lon": 36.818863,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 914492909,
+      "lat": -1.3217955,
+      "lon": 36.8698773,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "Rubis",
+        "operator": "Total Kenya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 916799074,
+      "lat": -1.3015406,
+      "lon": 36.8880547,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "operator": "Total Kenya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1000819329,
+      "lat": -1.2785503,
+      "lon": 36.8781567,
+      "tags": {
+        "addr:city": "Buruburu",
+        "addr:street": "Mumias South Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1038193524,
+      "lat": -1.2657306,
+      "lon": 36.857181,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Olympic Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1045731889,
+      "lat": -1.3006011,
+      "lon": 36.7797094,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell Adams Arcade"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1101638832,
+      "lat": -1.2667874,
+      "lon": 36.8452688,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Total Petrol Station",
+        "name:it": "Total",
+        "operator": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1112885130,
+      "lat": -1.2630656,
+      "lon": 36.8631261,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Thayu petrol station",
+        "name:it": "Thayu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1147234288,
+      "lat": -1.2593809,
+      "lon": 36.8265338,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "name": "Total Limuru Road",
+        "operator": "Total Kenya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1147234418,
+      "lat": -1.2673638,
+      "lon": 36.8174495,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Parklands Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1204015295,
+      "lat": -1.3269241,
+      "lon": 36.7890772,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Kitengela Road, Nairobi City",
+        "addr:street": "Kitengela Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1226714981,
+      "lat": -1.3109135,
+      "lon": 36.7817667,
+      "tags": {
+        "amenity": "fuel",
+        "foot": "no",
+        "fuel": "methane",
+        "motor_vehicle": "no",
+        "name": "Community Kerosene Supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1334386299,
+      "lat": -1.2901941,
+      "lon": 36.7708565,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Kobil",
+        "name": "Kobil Petrol Station",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1432507967,
+      "lat": -1.3181117,
+      "lon": 36.8745004,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kerosene pump",
+        "opening_hours": "08:00-20:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1432507968,
+      "lat": -1.3155859,
+      "lon": 36.8749855,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kerosine pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1432508024,
+      "lat": -1.3184955,
+      "lon": 36.8760325,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Neema kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1437347846,
+      "lat": -1.3160685,
+      "lon": 36.8757404,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kerosine pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1446059255,
+      "lat": -1.3097337,
+      "lon": 36.8761044,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Elshedai kerosene kiosk",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1446059321,
+      "lat": -1.3161888,
+      "lon": 36.8680622,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kerosene pump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1460894134,
+      "lat": -1.3052472,
+      "lon": 36.889397,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "name": "Oil Com",
+        "operator": "Oil Com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1486385590,
+      "lat": -1.3570058,
+      "lon": 36.7620542,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "P.O. Box 15593, Magadi Rd, Nairobi",
+        "addr:street": "Magadi Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1486411815,
+      "lat": -1.3412254,
+      "lon": 36.7538198,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis",
+        "name:en": "Kenol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1506606959,
+      "lat": -1.2650046,
+      "lon": 36.7407628,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "name:en": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1506606990,
+      "lat": -1.2634734,
+      "lon": 36.7639022,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "name": "Petro",
+        "name:en": "Petro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1506607069,
+      "lat": -1.2645326,
+      "lon": 36.7319436,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Tosha",
+        "name:en": "Tosha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1581198127,
+      "lat": -1.321605,
+      "lon": 36.8990103,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "name": "National Oil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1678061764,
+      "lat": -1.3146501,
+      "lon": 36.8598728,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Enterprise Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell",
+        "operator": "Shell/BP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1728805796,
+      "lat": -1.2644846,
+      "lon": 36.7492274,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1732933829,
+      "lat": -1.2436128,
+      "lon": 36.8962082,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Total",
+        "fuel:diesel": "yes",
+        "name": "Ngomomngo Petrol Station",
+        "operator": "Company",
+        "shop": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1809764832,
+      "lat": -1.3115732,
+      "lon": 36.7748015,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kerosene and charcoal point"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1880689087,
+      "lat": -1.2948689,
+      "lon": 36.8767274,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Rabai Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1997615249,
+      "lat": -1.2790492,
+      "lon": 36.8492173,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "General Waruingi Street",
+        "amenity": "fuel",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2091525567,
+      "lat": -1.2608349,
+      "lon": 36.7232892,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122225564,
+      "lat": -1.2083657,
+      "lon": 36.7877912,
+      "tags": {
+        "addr:city": "Ruaka",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "name": "Urafiki Service Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2122225565,
+      "lat": -1.2091559,
+      "lon": 36.7881007,
+      "tags": {
+        "addr:city": "Ruaka",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "name": "Delta Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2218541216,
+      "lat": -1.2599492,
+      "lon": 36.7857112,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2398737123,
+      "lat": -1.2592445,
+      "lon": 36.7785531,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2398737124,
+      "lat": -1.2592906,
+      "lon": 36.7799354,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2417344958,
+      "lat": -1.1837969,
+      "lon": 36.9011243,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kahawa Station Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2533881587,
+      "lat": -1.2811872,
+      "lon": 36.8165945,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:postcode": "46464",
+        "addr:street": "University Way",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell",
+        "payment:bitcoin": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2794547831,
+      "lat": -1.2845708,
+      "lon": 36.8192915,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Koinage Street",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2953872784,
+      "lat": -1.2177871,
+      "lon": 36.8906693,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kamiti Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3032456389,
+      "lat": -1.2819663,
+      "lon": 36.8794505,
+      "tags": {
+        "addr:city": "Buruburu",
+        "addr:street": "Mumias South Road",
+        "amenity": "fuel",
+        "name": "National Oil Corporation-Mutindwa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3183426912,
+      "lat": -1.2753162,
+      "lon": 36.8886968,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Oilcom Filling Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3183426913,
+      "lat": -1.275007,
+      "lon": 36.8907335,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Nomad Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3183486949,
+      "lat": -1.2629475,
+      "lon": 36.7190483,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Naivasha Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "fuel:diesel": "yes",
+        "fuel:kerosine": "yes",
+        "fuel:lpg": "yes",
+        "fuel:petrol": "yes",
+        "name": "Total Uthiru",
+        "operator": "Total",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3358847516,
+      "lat": -1.2010915,
+      "lon": 36.8992523,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Millenium Petrol Station",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3629143036,
+      "lat": -1.2103116,
+      "lon": 36.8752713,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Northern Bypass",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3643339590,
+      "lat": -1.2586608,
+      "lon": 36.781264,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3688455187,
+      "lat": -1.3192078,
+      "lon": 36.8367493,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mombasa Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4210622090,
+      "lat": -1.2990653,
+      "lon": 36.7636235,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4544312592,
+      "lat": -1.2594198,
+      "lon": 36.7045464,
+      "tags": {
+        "addr:city": "Kikuyu",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "name": "Amana Petroleum",
+        "name:en": "Amana Petroleum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4581101592,
+      "lat": -1.3071765,
+      "lon": 36.8483297,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Chemigas",
+        "name:en": "Chemigas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4584325194,
+      "lat": -1.2583495,
+      "lon": 36.8268852,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "name:en": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621825373,
+      "lat": -1.2298776,
+      "lon": 36.8415079,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kiambu Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "opening_hours": "Mo-Sa 05:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4739695158,
+      "lat": -1.265412,
+      "lon": 36.9050069,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "name:en": "Total",
+        "operator": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4815508311,
+      "lat": -1.2891324,
+      "lon": 36.7914709,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Lenana Road",
+        "amenity": "fuel",
+        "name": "Astrol Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4838514223,
+      "lat": -1.3724914,
+      "lon": 36.7682641,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Petrocity",
+        "name:en": "Petrocity"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4972148821,
+      "lat": -1.2611501,
+      "lon": 36.7132807,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Kwikfill",
+        "name:en": "Kwikfill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119552023,
+      "lat": -1.2293511,
+      "lon": 36.8403728,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kiambu Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5119573528,
+      "lat": -1.2640639,
+      "lon": 36.8382345,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Murang'a Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5217418921,
+      "lat": -1.2807361,
+      "lon": 36.8279435,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kirinyaga Road",
+        "amenity": "fuel",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5221207085,
+      "lat": -1.2903858,
+      "lon": 36.9472782,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "name": "Astrol Utawala",
+        "operator": "Astrol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5334954923,
+      "lat": -1.298185,
+      "lon": 36.7571527,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Triton - Naivasha Road",
+        "name:it": "Triton"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5334963441,
+      "lat": -1.2922445,
+      "lon": 36.7508742,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Danken Filling Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5338847312,
+      "lat": -1.2832755,
+      "lon": 36.7370157,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Naivasha Road",
+        "amenity": "fuel",
+        "name": "Oilibya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5339400382,
+      "lat": -1.2654646,
+      "lon": 36.803351,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mpaka Road",
+        "amenity": "fuel",
+        "name": "Oilcom Petrol Station Westlands",
+        "name:it": "Oilcom",
+        "operator": "OIlcom"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5340449107,
+      "lat": -1.2627775,
+      "lon": 36.8010475,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5356215608,
+      "lat": -1.2681462,
+      "lon": 36.8337664,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Murang'a Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5448456556,
+      "lat": -1.1834213,
+      "lon": 36.9075807,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Classics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5475093944,
+      "lat": -1.2771982,
+      "lon": 36.8279435,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngara Road",
+        "amenity": "fuel",
+        "name": "National Oil Corporation-Ngara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5475120244,
+      "lat": -1.2726479,
+      "lon": 36.8354294,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ring Road Ngara",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5475170857,
+      "lat": -1.2774718,
+      "lon": 36.8372581,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "General Waruinge Street",
+        "amenity": "fuel",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496066043,
+      "lat": -1.286861,
+      "lon": 36.8519541,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "First Avenue Eastleigh",
+        "amenity": "fuel",
+        "name": "Delta Petroleum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496066045,
+      "lat": -1.2878134,
+      "lon": 36.8521222,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "First Avenue Eastleigh",
+        "amenity": "fuel",
+        "name": "Hass petroleum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496066046,
+      "lat": -1.2883736,
+      "lon": 36.8521596,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "First Avenue Eastleigh",
+        "amenity": "fuel",
+        "name": "Engen Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496066065,
+      "lat": -1.2920075,
+      "lon": 36.8431301,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Bama,",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496079228,
+      "lat": -1.2951566,
+      "lon": 36.8544411,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496079244,
+      "lat": -1.2976196,
+      "lon": 36.869737,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Hazama Road",
+        "amenity": "fuel",
+        "name": "Mogas Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496079673,
+      "lat": -1.2840657,
+      "lon": 36.880483,
+      "tags": {
+        "addr:city": "Buruburu",
+        "addr:street": "Mumias South Road",
+        "amenity": "fuel",
+        "name": "Kenol Petrol Station",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496602968,
+      "lat": -1.2766664,
+      "lon": 36.8279516,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngara Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5496786745,
+      "lat": -1.2879607,
+      "lon": 36.8287269,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5526332569,
+      "lat": -1.2183273,
+      "lon": 36.8958669,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "fuel",
+        "name": "Shell Kasarani Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5536013005,
+      "lat": -1.284257,
+      "lon": 36.8186353,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Koinage Street",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5539579712,
+      "lat": -1.3130168,
+      "lon": 36.8555403,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Likoni Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5539579713,
+      "lat": -1.3134769,
+      "lon": 36.8542336,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Likoni Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5539579719,
+      "lat": -1.3038501,
+      "lon": 36.8562841,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Likoni Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5541744494,
+      "lat": -1.2088273,
+      "lon": 36.7996151,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Northern Bypass",
+        "amenity": "fuel",
+        "name": "Blue Sky Filling Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5552457016,
+      "lat": -1.2826306,
+      "lon": 36.8211478,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kimathi Street",
+        "amenity": "fuel",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5557128799,
+      "lat": -1.2995996,
+      "lon": 36.8258528,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Bunyala Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5569591300,
+      "lat": -1.3073999,
+      "lon": 36.842468,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Enterprise Road",
+        "amenity": "fuel",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5580878013,
+      "lat": -1.264588,
+      "lon": 36.733161,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "name": "Centoil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886549887,
+      "lat": -1.2713672,
+      "lon": 36.9967765,
+      "tags": {
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Delgas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886553686,
+      "lat": -1.2783528,
+      "lon": 37.0375535,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886553688,
+      "lat": -1.2795935,
+      "lon": 37.0467446,
+      "tags": {
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Lake oil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886553693,
+      "lat": -1.2781725,
+      "lon": 37.0305685,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886553695,
+      "lat": -1.2748627,
+      "lon": 37.0041603,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886553890,
+      "lat": -1.280848,
+      "lon": 37.0582356,
+      "tags": {
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "National oil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886555686,
+      "lat": -1.2795401,
+      "lon": 37.0428085,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "ORYX"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5886555688,
+      "lat": -1.2698003,
+      "lon": 36.9947083,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Dune"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5887135685,
+      "lat": -1.2634556,
+      "lon": 36.9818539,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173489656,
+      "lat": -1.2578019,
+      "lon": 36.9226022,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "name": "Total Kayole"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173489658,
+      "lat": -1.2504671,
+      "lon": 36.9391479,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Lexo Energy service station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173489659,
+      "lat": -1.2524278,
+      "lon": 36.9343755,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Bakri Petrol station Kangundo Rd"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173489660,
+      "lat": -1.2532152,
+      "lon": 36.9335791,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173489662,
+      "lat": -1.2545307,
+      "lon": 36.9337013,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Kobil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173489664,
+      "lat": -1.2487346,
+      "lon": 36.9486772,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "DELTA PETROL STATION"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6173489665,
+      "lat": -1.2552745,
+      "lon": 36.9663214,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6197926465,
+      "lat": -1.3058329,
+      "lon": 36.8412852,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Enterprise Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6198796723,
+      "lat": -1.2477587,
+      "lon": 36.8722598,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6198796724,
+      "lat": -1.2482067,
+      "lon": 36.8760004,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6208217286,
+      "lat": -1.3286444,
+      "lon": 36.8918121,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Airport North Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216321655,
+      "lat": -1.3341443,
+      "lon": 36.6729351,
+      "tags": {
+        "addr:city": "Ngong",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "Gulf Energy - Ngong Bubul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216321657,
+      "lat": -1.335386,
+      "lon": 36.6726399,
+      "tags": {
+        "addr:city": "Ngong",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "Pride Ride Kenya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216321660,
+      "lat": -1.3414,
+      "lon": 36.6669454,
+      "tags": {
+        "addr:city": "Ngong",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "National Oil Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6216321662,
+      "lat": -1.3421287,
+      "lon": 36.6668584,
+      "tags": {
+        "addr:city": "Ngong",
+        "addr:street": "Kangawa Road",
+        "amenity": "fuel",
+        "name": "Vet Filling Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224771750,
+      "lat": -1.3700088,
+      "lon": 36.7199956,
+      "tags": {
+        "addr:city": "Rongai",
+        "addr:street": "Ushirika Road",
+        "amenity": "fuel",
+        "name": "Gataka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6224883281,
+      "lat": -1.3425022,
+      "lon": 36.762601,
+      "tags": {
+        "addr:city": "Langata",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249063496,
+      "lat": -1.2185821,
+      "lon": 36.8962016,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "fuel",
+        "name": "Hashi Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249168538,
+      "lat": -1.2247737,
+      "lon": 36.9146137,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "fuel",
+        "name": "Total Petrol Station - Mwiki Road"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249168569,
+      "lat": -1.2307756,
+      "lon": 36.9230946,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "fuel",
+        "name": "Servco Filling Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249168596,
+      "lat": -1.2323971,
+      "lon": 36.9274864,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "fuel",
+        "name": "Amikev Petrol Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6249168597,
+      "lat": -1.2341172,
+      "lon": 36.9305249,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kasarani Mwiki Road",
+        "amenity": "fuel",
+        "name": "Formula Filling Stattion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6251561800,
+      "lat": -1.2605912,
+      "lon": 36.7101643,
+      "tags": {
+        "addr:city": "Kikuyu",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6257859221,
+      "lat": -1.2106522,
+      "lon": 36.7895376,
+      "tags": {
+        "addr:city": "Ruaka",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259798892,
+      "lat": -1.3113219,
+      "lon": 36.9136626,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Rd to Utawala Academy",
+        "amenity": "fuel",
+        "name": "Total Embakasi Service Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259798932,
+      "lat": -1.3160729,
+      "lon": 36.8955946,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell service station Fedha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259798977,
+      "lat": -1.2888,
+      "lon": 36.9035708,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Savannah Road",
+        "amenity": "fuel",
+        "name": "Petrogas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259810690,
+      "lat": -1.2829,
+      "lon": 36.9030397,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kayole Spine Road",
+        "amenity": "fuel",
+        "name": "Shell Service Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259860367,
+      "lat": -1.2904042,
+      "lon": 36.885648,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "name": "Safeway Enterprices Service Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259860371,
+      "lat": -1.2864047,
+      "lon": 36.8806596,
+      "tags": {
+        "addr:city": "Buruburu",
+        "addr:street": "Mumias South Road",
+        "amenity": "fuel",
+        "name": "Jimlizer Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259924659,
+      "lat": -1.2790407,
+      "lon": 36.8776353,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Mumias South Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6259924662,
+      "lat": -1.275237,
+      "lon": 36.8893195,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "MC2 Filling Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6400306850,
+      "lat": -1.2170419,
+      "lon": 36.8245919,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Northern Bypass",
+        "amenity": "fuel",
+        "name": "Astrol Petrol Station -Runda View"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6501067907,
+      "lat": -1.3654617,
+      "lon": 36.7426522,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Hardy Fuel Station"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6593042948,
+      "lat": -1.2319582,
+      "lon": 36.8035601,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Limuru Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6812208451,
+      "lat": -1.308633,
+      "lon": 36.8908172,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "name": "Lexo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6817327511,
+      "lat": -1.2781828,
+      "lon": 36.8728441,
+      "tags": {
+        "addr:city": "Buru buru",
+        "addr:street": "Rabai Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6819685076,
+      "lat": -1.2970144,
+      "lon": 36.8385791,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Lusaka Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6819692388,
+      "lat": -1.2731947,
+      "lon": 36.9112007,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kayole Spine Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6819930270,
+      "lat": -1.2533714,
+      "lon": 36.9344166,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Be"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7305927852,
+      "lat": -1.3229811,
+      "lon": 36.7062994,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7305927881,
+      "lat": -1.3172349,
+      "lon": 36.7190072,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Karen Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7309074615,
+      "lat": -1.3381639,
+      "lon": 36.6697555,
+      "tags": {
+        "addr:city": "Oloolua",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7507287888,
+      "lat": -1.3573745,
+      "lon": 36.9077691,
+      "tags": {
+        "addr:city": "Syokimau",
+        "addr:street": "Mombasa Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell- Syokimau"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7643261185,
+      "lat": -1.2110729,
+      "lon": 36.8756235,
+      "tags": {
+        "addr:street": "Northern Bypass",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "operator": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7807124131,
+      "lat": -1.2752729,
+      "lon": 37.0079459,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "H-E-B Fuel",
+        "brand:wikidata": "Q830621",
+        "brand:wikipedia": "en:H-E-B",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "shell ruai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7853571449,
+      "lat": -1.2276445,
+      "lon": 36.8702271,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "New Garden Estate Road",
+        "amenity": "fuel",
+        "name": "Gulf Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8168743975,
+      "lat": -1.3182389,
+      "lon": 36.8968102,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total Fedha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8193894408,
+      "lat": -1.2546185,
+      "lon": 36.8315444,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Muthaiga Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8193894409,
+      "lat": -1.2672304,
+      "lon": 36.8449395,
+      "tags": {
+        "addr:street": "Kirongothi Street",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8202067662,
+      "lat": -1.2761872,
+      "lon": 37.0160973,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8202067664,
+      "lat": -1.2798063,
+      "lon": 37.0457198,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "name": "Lakestar Oil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8230475519,
+      "lat": -1.1709046,
+      "lon": 36.9168317,
+      "tags": {
+        "addr:street": "Northern Bypass",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8230475717,
+      "lat": -1.1713911,
+      "lon": 36.9169587,
+      "tags": {
+        "addr:street": "Northern Bypass",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8231893217,
+      "lat": -1.1712452,
+      "lon": 36.9166571,
+      "tags": {
+        "addr:street": "Northern Bypass",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8237558557,
+      "lat": -1.2279255,
+      "lon": 36.8405129,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kiambu Road",
+        "amenity": "fuel",
+        "name": "Astrol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8293614662,
+      "lat": -1.2317234,
+      "lon": 36.9898393,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "name": "Exxen Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8293614664,
+      "lat": -1.2546848,
+      "lon": 36.9858441,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8293614666,
+      "lat": -1.2594578,
+      "lon": 36.9843566,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8293614669,
+      "lat": -1.2733248,
+      "lon": 36.9731885,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8293614672,
+      "lat": -1.2748042,
+      "lon": 36.9727524,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "name": "Bakri Petrol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8293614673,
+      "lat": -1.2786972,
+      "lon": 36.9684846,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "name": "Lexo Service"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8293614674,
+      "lat": -1.2818582,
+      "lon": 36.9624242,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8318718279,
+      "lat": -1.2804758,
+      "lon": 36.6903233,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Dagoretti Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8338714141,
+      "lat": -1.2341418,
+      "lon": 36.9896959,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Eastern Bypass",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8338714156,
+      "lat": -1.2526761,
+      "lon": 36.9606127,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8338714158,
+      "lat": -1.2630436,
+      "lon": 36.9060916,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kangundo Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8342029549,
+      "lat": -1.3090831,
+      "lon": 36.8591437,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Lunga Lunga Road",
+        "amenity": "fuel",
+        "name": "Mamba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8342029552,
+      "lat": -1.262255,
+      "lon": 36.8656896,
+      "tags": {
+        "addr:street": "Mathare N Road",
+        "amenity": "fuel",
+        "name": "Hass"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8345317201,
+      "lat": -1.256284,
+      "lon": 36.8792975,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8345317202,
+      "lat": -1.2466037,
+      "lon": 36.8710397,
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Outer Ring Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8371880149,
+      "lat": -1.2823965,
+      "lon": 36.9923469,
+      "tags": {
+        "addr:city": "Githunguri",
+        "addr:street": "Utawala Githunguri Road",
+        "amenity": "fuel",
+        "name": "National Oil"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95780936,
+      "nodes": [
+        1110140763,
+        1110140774,
+        1110140753,
+        1110140776,
+        1110140763
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "name": "Albadir Petrol Station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123247750,
+      "nodes": [
+        1375074114,
+        1375073977,
+        1375073862,
+        1375073857,
+        1375074114
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Tom Mboya Street",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123365084,
+      "nodes": [
+        1375984764,
+        1375984738,
+        1375984746,
+        1375984754,
+        1375984764
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "Odeon,",
+        "addr:street": "Latema Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "building": "yes",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 123704839,
+      "nodes": [
+        1378673346,
+        1378673394,
+        1378673286,
+        1378673284,
+        1378673243,
+        1378673272,
+        1378673270,
+        1378673413,
+        1378673346
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "River Road",
+        "amenity": "fuel",
+        "brand": "Rubis",
+        "brand:wikidata": "Q3446514",
+        "brand:wikipedia": "en:Rubis (company)",
+        "name": "Rubis"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125107079,
+      "nodes": [
+        1390298834,
+        1390298833,
+        1390298891,
+        1390298866,
+        1390298873,
+        1390298892,
+        1390298834
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kirinyaga Road",
+        "amenity": "fuel",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 125336232,
+      "nodes": [
+        1392391361,
+        1392391286,
+        1392391477,
+        1392391311,
+        1392391308,
+        1392391390,
+        1392391210,
+        1392391361
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kenyatta Avenue",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 126724351,
+      "nodes": [
+        1404034087,
+        1404034245,
+        1404034243,
+        1404034247,
+        1404034087
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ring Road Ngara",
+        "amenity": "fuel",
+        "name": "Petro"
+      }
+    },
+    {
+      "type": "way",
+      "id": 126936993,
+      "nodes": [
+        1406079866,
+        1406079714,
+        1406079772,
+        1406079844,
+        1406079866
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Landhies Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 126995763,
+      "nodes": [
+        1406321502,
+        1406321523,
+        1406321539,
+        1406321541,
+        1406321502
+      ],
+      "tags": {
+        "addr:city": "Niarobi",
+        "addr:street": "Park Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129323643,
+      "nodes": [
+        1427078484,
+        1427078502,
+        1427078497,
+        1427078481,
+        1427078500,
+        1427078492,
+        1427078487,
+        1427078493,
+        1427078494,
+        1427078495,
+        1427078498,
+        1427078484
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129336009,
+      "nodes": [
+        1427166542,
+        1427166971,
+        1427166743,
+        1427166722,
+        1427166542
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "name": "Oryx Gas Stattion"
+      }
+    },
+    {
+      "type": "way",
+      "id": 129542783,
+      "nodes": [
+        1429062725,
+        1429061667,
+        1429062759,
+        1429061718,
+        1429061915,
+        1429062259,
+        1429062725
+      ],
+      "tags": {
+        "addr:city": "Niarobi",
+        "addr:street": "Park Road",
+        "amenity": "fuel",
+        "name": "Nomad"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130095270,
+      "nodes": [
+        1433932991,
+        1433933080,
+        1433932996,
+        1433933159,
+        1433933013,
+        1433933119,
+        1433932991
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Likoni Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130282415,
+      "nodes": [
+        1435400804,
+        1435400633,
+        1435400824,
+        1435400661,
+        1435400651,
+        1435400630,
+        1435400807,
+        1435400659,
+        1435400804
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "name": "Hashi Energy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 131827368,
+      "nodes": [
+        1450227187,
+        1450227192,
+        1450227191,
+        1450227186,
+        1450227187
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngara Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133146051,
+      "nodes": [
+        1465021940,
+        1465021876,
+        1465021938,
+        1465021915,
+        1465021940
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Enterprise Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133157675,
+      "nodes": [
+        1465150692,
+        1465150871,
+        1465150564,
+        1465150434,
+        3705787797,
+        3705787788,
+        1465150692
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Lusaka Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "way",
+      "id": 133548150,
+      "nodes": [
+        1469949085,
+        1469948776,
+        1469948994,
+        1469949079,
+        1469948810,
+        1469949122,
+        1469949207,
+        1469949221,
+        1469949059,
+        1469949081,
+        1469948951,
+        1469948803,
+        1469949085
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 144188726,
+      "nodes": [
+        1577711533,
+        1577711539,
+        1577711542,
+        1577711540,
+        1577711536,
+        1577711532,
+        1577711533
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:housenumber": "P.O. Box 3714, Langata Rd, Nairobi City",
+        "addr:street": "Langata Road",
+        "amenity": "fuel",
+        "area": "yes",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "building": "no",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226322138,
+      "nodes": [
+        2351704030,
+        3181900002,
+        2351704031,
+        2351704024,
+        916791545,
+        2351704025,
+        2351704030
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shell",
+        "building": "roof",
+        "name": "Shell Petrol Station Lavington",
+        "operator": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 226714111,
+      "nodes": [
+        2354721345,
+        2354721347,
+        2354721348,
+        2354721350,
+        2354721345
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232010699,
+      "nodes": [
+        2403564295,
+        2403564294,
+        2403564301,
+        2403564304,
+        2403564295
+      ],
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Kenol",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_80": "yes",
+        "fuel:octane_92": "no",
+        "fuel:octane_95": "yes",
+        "name": "Kenol Fuel Station",
+        "opening_hours": "Daily 06:00-20:00",
+        "operator": "Kenya National Oil Company Limited",
+        "shop": "kiosk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238857325,
+      "nodes": [
+        2466561201,
+        2466561202,
+        2466561203,
+        2466561204,
+        2466561201
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ring Road Parklands",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245718942,
+      "nodes": [
+        2528594210,
+        2528594211,
+        2528594212,
+        2528594214,
+        2528594210
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "name": "Dup Petrol Station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 245718943,
+      "nodes": [
+        2528594215,
+        2528594216,
+        2528594217,
+        2528594218,
+        2528594215
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "name": "Hashi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246396242,
+      "nodes": [
+        2534506886,
+        2534506887,
+        2534506888,
+        2534506889,
+        2534506886
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "General Waruingi Street",
+        "amenity": "fuel",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 246935361,
+      "nodes": [
+        2538978036,
+        2538978038,
+        2538978041,
+        2538978042,
+        2538978036
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Kenyatta Avenue",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "operator": "Insignia Group Limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247938329,
+      "nodes": [
+        2547800672,
+        2547800671,
+        2547800681,
+        2547800687,
+        2547800672
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "fuel:unleaded": "yes",
+        "name": "National Oil",
+        "operator": "National Oil"
+      }
+    },
+    {
+      "type": "way",
+      "id": 247938335,
+      "nodes": [
+        2547800685,
+        2547800684,
+        2547800691,
+        2547800693,
+        2547800685
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "way",
+      "id": 312340556,
+      "nodes": [
+        2351704025,
+        2351704026,
+        2351704027,
+        3181900005,
+        3181900006,
+        2351704028,
+        3181900008,
+        3181900007,
+        2351704029,
+        2351704030,
+        2351704025
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "James Gichuru Road",
+        "amenity": "fuel",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 330492793,
+      "nodes": [
+        3374602209,
+        6224915328,
+        3374602210,
+        3374602211,
+        6224915330,
+        3374602212,
+        3374602209
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "building": "yes",
+        "name": "Total"
+      }
+    },
+    {
+      "type": "way",
+      "id": 345274212,
+      "nodes": [
+        3519591086,
+        3519591087,
+        3519591088,
+        3519591089,
+        3519591086
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "PetroCity Petrol Station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 366568545,
+      "nodes": [
+        3705563560,
+        3705563561,
+        3705563562,
+        3705563563,
+        3705563560
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Lusaka Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 366611220,
+      "nodes": [
+        3706025965,
+        3706025966,
+        3706025967,
+        3706025968,
+        3706025965
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Waiyaki Way",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387483417,
+      "nodes": [
+        3907775898,
+        3907775899,
+        3907775900,
+        3907775901,
+        3907775898
+      ],
+      "tags": {
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "OLA Energy",
+        "operator": "Oilibya"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387485420,
+      "nodes": [
+        5783232061,
+        4512673885,
+        3907799619,
+        3907799620,
+        3907799621,
+        5783232061
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "name": "Shell",
+        "opening_hours": "Closes 11PM",
+        "operator": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 421270137,
+      "nodes": [
+        4210534089,
+        4210534090,
+        4210534091,
+        4210534092,
+        4210534093,
+        4210534089
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Ngong Road",
+        "amenity": "fuel",
+        "name": "Lexo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 489082823,
+      "nodes": [
+        4813621270,
+        4813621290,
+        4813621277,
+        4813621285,
+        4813621284,
+        4813621278,
+        4813621299,
+        4813621294,
+        4813621286,
+        4813621282,
+        4813621270
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "James Gichuru Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665052551,
+      "nodes": [
+        6224915315,
+        6224915316,
+        6224915317,
+        6224915318,
+        6224915315
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "fuel",
+        "name": "Oilcom Petrol Station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665052554,
+      "nodes": [
+        6224915340,
+        6224915341,
+        6224915342,
+        6224915343,
+        6224915340
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "fuel",
+        "name": "Astrol Petroleum Co Ltd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 665052556,
+      "nodes": [
+        6224915357,
+        6224915358,
+        6224915359,
+        6224915360,
+        6224915357
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Thika Road",
+        "amenity": "fuel",
+        "name": "Crescent Service Station"
+      }
+    },
+    {
+      "type": "way",
+      "id": 683322576,
+      "nodes": [
+        6400296505,
+        6400296506,
+        6400296507,
+        6400296508,
+        6400296509,
+        6400296510,
+        6400296511,
+        6400296505
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Jogoo Road",
+        "amenity": "fuel",
+        "name": "OLA Energy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 686179946,
+      "nodes": [
+        6431596666,
+        6431596663,
+        6431596664,
+        6431596665,
+        6431596666
+      ],
+      "tags": {
+        "addr:city": "Nairobi",
+        "addr:street": "Dr. G.W. Griffin Road",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2354721345,
+      "lat": -1.3223372,
+      "lon": 36.707927
+    },
+    {
+      "type": "node",
+      "id": 2354721347,
+      "lat": -1.3222808,
+      "lon": 36.708027
+    },
+    {
+      "type": "node",
+      "id": 2354721348,
+      "lat": -1.3225233,
+      "lon": 36.7081639
+    },
+    {
+      "type": "node",
+      "id": 2354721350,
+      "lat": -1.3225798,
+      "lon": 36.7080639
+    },
+    {
+      "type": "node",
+      "id": 3519591086,
+      "lat": -1.3224831,
+      "lon": 36.7070155
+    },
+    {
+      "type": "node",
+      "id": 3519591087,
+      "lat": -1.3226109,
+      "lon": 36.7069777
+    },
+    {
+      "type": "node",
+      "id": 3519591088,
+      "lat": -1.3226294,
+      "lon": 36.7070403
+    },
+    {
+      "type": "node",
+      "id": 3519591089,
+      "lat": -1.3225016,
+      "lon": 36.7070781
+    },
+    {
+      "type": "node",
+      "id": 4210534089,
+      "lat": -1.3020466,
+      "lon": 36.7514663
+    },
+    {
+      "type": "node",
+      "id": 4210534090,
+      "lat": -1.3020164,
+      "lon": 36.7515268
+    },
+    {
+      "type": "node",
+      "id": 4210534091,
+      "lat": -1.3021898,
+      "lon": 36.7516207
+    },
+    {
+      "type": "node",
+      "id": 4210534092,
+      "lat": -1.3022423,
+      "lon": 36.7515666
+    },
+    {
+      "type": "node",
+      "id": 4210534093,
+      "lat": -1.3021087,
+      "lon": 36.7514997
+    },
+    {
+      "type": "node",
+      "id": 2547800684,
+      "lat": -1.2998804,
+      "lon": 36.7887179
+    },
+    {
+      "type": "node",
+      "id": 2547800685,
+      "lat": -1.2998823,
+      "lon": 36.7886441
+    },
+    {
+      "type": "node",
+      "id": 2547800691,
+      "lat": -1.3000075,
+      "lon": 36.7887212
+    },
+    {
+      "type": "node",
+      "id": 2547800693,
+      "lat": -1.3000094,
+      "lon": 36.7886474
+    },
+    {
+      "type": "node",
+      "id": 3907775898,
+      "lat": -1.2998648,
+      "lon": 36.7898769
+    },
+    {
+      "type": "node",
+      "id": 3907775899,
+      "lat": -1.3000183,
+      "lon": 36.7898769
+    },
+    {
+      "type": "node",
+      "id": 3907775900,
+      "lat": -1.3000177,
+      "lon": 36.7899733
+    },
+    {
+      "type": "node",
+      "id": 3907775901,
+      "lat": -1.2998638,
+      "lon": 36.7899712
+    },
+    {
+      "type": "node",
+      "id": 3907799619,
+      "lat": -1.3018135,
+      "lon": 36.7947237
+    },
+    {
+      "type": "node",
+      "id": 3907799620,
+      "lat": -1.3017258,
+      "lon": 36.7952268
+    },
+    {
+      "type": "node",
+      "id": 3907799621,
+      "lat": -1.3010762,
+      "lon": 36.795196
+    },
+    {
+      "type": "node",
+      "id": 4512673885,
+      "lat": -1.3012384,
+      "lon": 36.7947101
+    },
+    {
+      "type": "node",
+      "id": 5783232061,
+      "lat": -1.3011215,
+      "lon": 36.794708
+    },
+    {
+      "type": "node",
+      "id": 2547800671,
+      "lat": -1.299666,
+      "lon": 36.7925829
+    },
+    {
+      "type": "node",
+      "id": 2547800672,
+      "lat": -1.2996755,
+      "lon": 36.7921194
+    },
+    {
+      "type": "node",
+      "id": 2547800681,
+      "lat": -1.3000832,
+      "lon": 36.7925917
+    },
+    {
+      "type": "node",
+      "id": 2547800687,
+      "lat": -1.3001312,
+      "lon": 36.7921509
+    },
+    {
+      "type": "node",
+      "id": 2351704028,
+      "lat": -1.281273,
+      "lon": 36.769405
+    },
+    {
+      "type": "node",
+      "id": 916791545,
+      "lat": -1.2807386,
+      "lon": 36.7692795
+    },
+    {
+      "type": "node",
+      "id": 2351704024,
+      "lat": -1.2807017,
+      "lon": 36.7692264
+    },
+    {
+      "type": "node",
+      "id": 2351704025,
+      "lat": -1.2808553,
+      "lon": 36.7694522
+    },
+    {
+      "type": "node",
+      "id": 2351704026,
+      "lat": -1.2808272,
+      "lon": 36.7694713
+    },
+    {
+      "type": "node",
+      "id": 2351704027,
+      "lat": -1.2808941,
+      "lon": 36.7695697
+    },
+    {
+      "type": "node",
+      "id": 2351704029,
+      "lat": -1.2809762,
+      "lon": 36.7693698
+    },
+    {
+      "type": "node",
+      "id": 2351704030,
+      "lat": -1.2809131,
+      "lon": 36.7694128
+    },
+    {
+      "type": "node",
+      "id": 2351704031,
+      "lat": -1.2807595,
+      "lon": 36.769187
+    },
+    {
+      "type": "node",
+      "id": 3181900002,
+      "lat": -1.280795,
+      "lon": 36.7692386
+    },
+    {
+      "type": "node",
+      "id": 3181900005,
+      "lat": -1.280968,
+      "lon": 36.7695193
+    },
+    {
+      "type": "node",
+      "id": 3181900006,
+      "lat": -1.2810114,
+      "lon": 36.7695831
+    },
+    {
+      "type": "node",
+      "id": 3181900007,
+      "lat": -1.2810168,
+      "lon": 36.7694294
+    },
+    {
+      "type": "node",
+      "id": 3181900008,
+      "lat": -1.2812032,
+      "lon": 36.7693025
+    },
+    {
+      "type": "node",
+      "id": 4813621270,
+      "lat": -1.2788595,
+      "lon": 36.7704114
+    },
+    {
+      "type": "node",
+      "id": 4813621277,
+      "lat": -1.2788676,
+      "lon": 36.7705616
+    },
+    {
+      "type": "node",
+      "id": 4813621278,
+      "lat": -1.2789882,
+      "lon": 36.7706555
+    },
+    {
+      "type": "node",
+      "id": 4813621282,
+      "lat": -1.2789239,
+      "lon": 36.7703738
+    },
+    {
+      "type": "node",
+      "id": 4813621284,
+      "lat": -1.2789614,
+      "lon": 36.7706099
+    },
+    {
+      "type": "node",
+      "id": 4813621285,
+      "lat": -1.2789147,
+      "lon": 36.7706355
+    },
+    {
+      "type": "node",
+      "id": 4813621286,
+      "lat": -1.2790821,
+      "lon": 36.7706474
+    },
+    {
+      "type": "node",
+      "id": 4813621290,
+      "lat": -1.2789308,
+      "lon": 36.7705255
+    },
+    {
+      "type": "node",
+      "id": 4813621294,
+      "lat": -1.2789051,
+      "lon": 36.7707601
+    },
+    {
+      "type": "node",
+      "id": 4813621299,
+      "lat": -1.2788676,
+      "lon": 36.7707225
+    },
+    {
+      "type": "node",
+      "id": 2403564294,
+      "lat": -1.2514055,
+      "lon": 36.7572148
+    },
+    {
+      "type": "node",
+      "id": 2403564295,
+      "lat": -1.2514183,
+      "lon": 36.7571583
+    },
+    {
+      "type": "node",
+      "id": 2403564301,
+      "lat": -1.251518,
+      "lon": 36.7572404
+    },
+    {
+      "type": "node",
+      "id": 2403564304,
+      "lat": -1.2515308,
+      "lon": 36.7571839
+    },
+    {
+      "type": "node",
+      "id": 3706025965,
+      "lat": -1.2598911,
+      "lon": 36.7856005
+    },
+    {
+      "type": "node",
+      "id": 3706025966,
+      "lat": -1.2598443,
+      "lon": 36.7856773
+    },
+    {
+      "type": "node",
+      "id": 3706025967,
+      "lat": -1.2600279,
+      "lon": 36.7857842
+    },
+    {
+      "type": "node",
+      "id": 3706025968,
+      "lat": -1.2600723,
+      "lon": 36.7857085
+    },
+    {
+      "type": "node",
+      "id": 2466561201,
+      "lat": -1.2629288,
+      "lon": 36.8026441
+    },
+    {
+      "type": "node",
+      "id": 2466561202,
+      "lat": -1.2629829,
+      "lon": 36.8028674
+    },
+    {
+      "type": "node",
+      "id": 2466561203,
+      "lat": -1.2631419,
+      "lon": 36.8028289
+    },
+    {
+      "type": "node",
+      "id": 2466561204,
+      "lat": -1.2630878,
+      "lon": 36.8026056
+    },
+    {
+      "type": "node",
+      "id": 1577711532,
+      "lat": -1.3105066,
+      "lon": 36.8179028
+    },
+    {
+      "type": "node",
+      "id": 1577711533,
+      "lat": -1.3105438,
+      "lon": 36.817877
+    },
+    {
+      "type": "node",
+      "id": 1577711536,
+      "lat": -1.3106441,
+      "lon": 36.8180948
+    },
+    {
+      "type": "node",
+      "id": 1577711539,
+      "lat": -1.3110997,
+      "lon": 36.8173983
+    },
+    {
+      "type": "node",
+      "id": 1577711540,
+      "lat": -1.3111226,
+      "lon": 36.8177222
+    },
+    {
+      "type": "node",
+      "id": 1577711542,
+      "lat": -1.3111856,
+      "lon": 36.8174872
+    },
+    {
+      "type": "node",
+      "id": 3705563560,
+      "lat": -1.3035427,
+      "lon": 36.8284944
+    },
+    {
+      "type": "node",
+      "id": 3705563561,
+      "lat": -1.3035265,
+      "lon": 36.8285569
+    },
+    {
+      "type": "node",
+      "id": 3705563562,
+      "lat": -1.3034035,
+      "lon": 36.8285114
+    },
+    {
+      "type": "node",
+      "id": 3705563563,
+      "lat": -1.3034278,
+      "lon": 36.8284429
+    },
+    {
+      "type": "node",
+      "id": 1465150434,
+      "lat": -1.3012224,
+      "lon": 36.8328725
+    },
+    {
+      "type": "node",
+      "id": 1465150564,
+      "lat": -1.301378,
+      "lon": 36.8329637
+    },
+    {
+      "type": "node",
+      "id": 1465150692,
+      "lat": -1.3013377,
+      "lon": 36.8326687
+    },
+    {
+      "type": "node",
+      "id": 1465150871,
+      "lat": -1.3014906,
+      "lon": 36.8327465
+    },
+    {
+      "type": "node",
+      "id": 3705787788,
+      "lat": -1.3013269,
+      "lon": 36.8326878
+    },
+    {
+      "type": "node",
+      "id": 3705787797,
+      "lat": -1.3012519,
+      "lon": 36.8328203
+    },
+    {
+      "type": "node",
+      "id": 1465021876,
+      "lat": -1.2988384,
+      "lon": 36.8366337
+    },
+    {
+      "type": "node",
+      "id": 1465021915,
+      "lat": -1.2988515,
+      "lon": 36.836833
+    },
+    {
+      "type": "node",
+      "id": 1465021938,
+      "lat": -1.2989263,
+      "lon": 36.8366755
+    },
+    {
+      "type": "node",
+      "id": 1465021940,
+      "lat": -1.2987636,
+      "lon": 36.8367912
+    },
+    {
+      "type": "node",
+      "id": 1433932991,
+      "lat": -1.2976571,
+      "lon": 36.8553301
+    },
+    {
+      "type": "node",
+      "id": 1433932996,
+      "lat": -1.2976222,
+      "lon": 36.8555071
+    },
+    {
+      "type": "node",
+      "id": 1433933013,
+      "lat": -1.2977429,
+      "lon": 36.8555688
+    },
+    {
+      "type": "node",
+      "id": 1433933080,
+      "lat": -1.2976705,
+      "lon": 36.8555098
+    },
+    {
+      "type": "node",
+      "id": 1433933119,
+      "lat": -1.2977375,
+      "lon": 36.8553328
+    },
+    {
+      "type": "node",
+      "id": 1433933159,
+      "lat": -1.2976195,
+      "lon": 36.8555688
+    },
+    {
+      "type": "node",
+      "id": 1427078481,
+      "lat": -1.2958794,
+      "lon": 36.8602198
+    },
+    {
+      "type": "node",
+      "id": 1427078484,
+      "lat": -1.2956305,
+      "lon": 36.860191
+    },
+    {
+      "type": "node",
+      "id": 1427078487,
+      "lat": -1.295755,
+      "lon": 36.86038
+    },
+    {
+      "type": "node",
+      "id": 1427078492,
+      "lat": -1.2957442,
+      "lon": 36.8603201
+    },
+    {
+      "type": "node",
+      "id": 1427078493,
+      "lat": -1.295706,
+      "lon": 36.8603889
+    },
+    {
+      "type": "node",
+      "id": 1427078494,
+      "lat": -1.2956984,
+      "lon": 36.8603469
+    },
+    {
+      "type": "node",
+      "id": 1427078495,
+      "lat": -1.29566,
+      "lon": 36.8603539
+    },
+    {
+      "type": "node",
+      "id": 1427078497,
+      "lat": -1.2957247,
+      "lon": 36.8602478
+    },
+    {
+      "type": "node",
+      "id": 1427078498,
+      "lat": -1.2956432,
+      "lon": 36.8602611
+    },
+    {
+      "type": "node",
+      "id": 1427078500,
+      "lat": -1.2958927,
+      "lon": 36.8602932
+    },
+    {
+      "type": "node",
+      "id": 1427078502,
+      "lat": -1.2957118,
+      "lon": 36.8601763
+    },
+    {
+      "type": "node",
+      "id": 1427166542,
+      "lat": -1.2980458,
+      "lon": 36.8688941
+    },
+    {
+      "type": "node",
+      "id": 1427166722,
+      "lat": -1.2980432,
+      "lon": 36.8689719
+    },
+    {
+      "type": "node",
+      "id": 1427166743,
+      "lat": -1.298188,
+      "lon": 36.8689504
+    },
+    {
+      "type": "node",
+      "id": 1427166971,
+      "lat": -1.2981894,
+      "lon": 36.8688734
+    },
+    {
+      "type": "node",
+      "id": 1392391210,
+      "lat": -1.2895972,
+      "lon": 36.8112452
+    },
+    {
+      "type": "node",
+      "id": 1392391286,
+      "lat": -1.2897037,
+      "lon": 36.8110737
+    },
+    {
+      "type": "node",
+      "id": 1392391308,
+      "lat": -1.2898566,
+      "lon": 36.8112373
+    },
+    {
+      "type": "node",
+      "id": 1392391311,
+      "lat": -1.289865,
+      "lon": 36.8111559
+    },
+    {
+      "type": "node",
+      "id": 1392391361,
+      "lat": -1.2896289,
+      "lon": 36.8110623
+    },
+    {
+      "type": "node",
+      "id": 1392391390,
+      "lat": -1.2896722,
+      "lon": 36.811256
+    },
+    {
+      "type": "node",
+      "id": 1392391477,
+      "lat": -1.289693,
+      "lon": 36.8111247
+    },
+    {
+      "type": "node",
+      "id": 1375073857,
+      "lat": -1.2881537,
+      "lon": 36.8281539
+    },
+    {
+      "type": "node",
+      "id": 1375073862,
+      "lat": -1.2882142,
+      "lon": 36.8280274
+    },
+    {
+      "type": "node",
+      "id": 1375073977,
+      "lat": -1.2881561,
+      "lon": 36.8279927
+    },
+    {
+      "type": "node",
+      "id": 1375074114,
+      "lat": -1.2880942,
+      "lon": 36.8281126
+    },
+    {
+      "type": "node",
+      "id": 2538978036,
+      "lat": -1.285503,
+      "lon": 36.8188681
+    },
+    {
+      "type": "node",
+      "id": 2538978038,
+      "lat": -1.285403,
+      "lon": 36.8188167
+    },
+    {
+      "type": "node",
+      "id": 2538978041,
+      "lat": -1.2853683,
+      "lon": 36.8188844
+    },
+    {
+      "type": "node",
+      "id": 2538978042,
+      "lat": -1.2854682,
+      "lon": 36.8189358
+    },
+    {
+      "type": "node",
+      "id": 1375984738,
+      "lat": -1.282719,
+      "lon": 36.824776
+    },
+    {
+      "type": "node",
+      "id": 1375984746,
+      "lat": -1.2827771,
+      "lon": 36.8248469
+    },
+    {
+      "type": "node",
+      "id": 1375984754,
+      "lat": -1.2827077,
+      "lon": 36.8249038
+    },
+    {
+      "type": "node",
+      "id": 1375984764,
+      "lat": -1.2826496,
+      "lon": 36.8248329
+    },
+    {
+      "type": "node",
+      "id": 1378673243,
+      "lat": -1.2827075,
+      "lon": 36.8280978
+    },
+    {
+      "type": "node",
+      "id": 1378673270,
+      "lat": -1.2828916,
+      "lon": 36.8280979
+    },
+    {
+      "type": "node",
+      "id": 1378673272,
+      "lat": -1.282838,
+      "lon": 36.8280147
+    },
+    {
+      "type": "node",
+      "id": 1378673284,
+      "lat": -1.2826878,
+      "lon": 36.8280764
+    },
+    {
+      "type": "node",
+      "id": 1378673286,
+      "lat": -1.2827253,
+      "lon": 36.8280496
+    },
+    {
+      "type": "node",
+      "id": 1378673346,
+      "lat": -1.2826298,
+      "lon": 36.8280388
+    },
+    {
+      "type": "node",
+      "id": 1378673394,
+      "lat": -1.2826959,
+      "lon": 36.8279987
+    },
+    {
+      "type": "node",
+      "id": 1378673413,
+      "lat": -1.282737,
+      "lon": 36.828197
+    },
+    {
+      "type": "node",
+      "id": 1469948776,
+      "lat": -1.2689272,
+      "lon": 36.8172161
+    },
+    {
+      "type": "node",
+      "id": 1469948803,
+      "lat": -1.2688146,
+      "lon": 36.8171758
+    },
+    {
+      "type": "node",
+      "id": 1469948810,
+      "lat": -1.2691364,
+      "lon": 36.8172134
+    },
+    {
+      "type": "node",
+      "id": 1469948951,
+      "lat": -1.2688602,
+      "lon": 36.817259
+    },
+    {
+      "type": "node",
+      "id": 1469948994,
+      "lat": -1.268946,
+      "lon": 36.8172268
+    },
+    {
+      "type": "node",
+      "id": 1469949059,
+      "lat": -1.2688874,
+      "lon": 36.8173865
+    },
+    {
+      "type": "node",
+      "id": 1469949079,
+      "lat": -1.2689701,
+      "lon": 36.8172161
+    },
+    {
+      "type": "node",
+      "id": 1469949081,
+      "lat": -1.2688066,
+      "lon": 36.8173368
+    },
+    {
+      "type": "node",
+      "id": 1469949085,
+      "lat": -1.268879,
+      "lon": 36.8171329
+    },
+    {
+      "type": "node",
+      "id": 1469949122,
+      "lat": -1.2691341,
+      "lon": 36.8173329
+    },
+    {
+      "type": "node",
+      "id": 1469949207,
+      "lat": -1.2689648,
+      "lon": 36.8173207
+    },
+    {
+      "type": "node",
+      "id": 1469949221,
+      "lat": -1.2689353,
+      "lon": 36.81731
+    },
+    {
+      "type": "node",
+      "id": 1390298833,
+      "lat": -1.2799391,
+      "lon": 36.8226647
+    },
+    {
+      "type": "node",
+      "id": 1390298834,
+      "lat": -1.2797605,
+      "lon": 36.8227145
+    },
+    {
+      "type": "node",
+      "id": 1390298866,
+      "lat": -1.2800635,
+      "lon": 36.8227475
+    },
+    {
+      "type": "node",
+      "id": 1390298873,
+      "lat": -1.2799616,
+      "lon": 36.822785
+    },
+    {
+      "type": "node",
+      "id": 1390298891,
+      "lat": -1.2800206,
+      "lon": 36.822642
+    },
+    {
+      "type": "node",
+      "id": 1390298892,
+      "lat": -1.2797927,
+      "lon": 36.8228405
+    },
+    {
+      "type": "node",
+      "id": 1404034087,
+      "lat": -1.2787361,
+      "lon": 36.8303856
+    },
+    {
+      "type": "node",
+      "id": 1404034243,
+      "lat": -1.2789292,
+      "lon": 36.8303641
+    },
+    {
+      "type": "node",
+      "id": 1404034245,
+      "lat": -1.2788246,
+      "lon": 36.8302729
+    },
+    {
+      "type": "node",
+      "id": 1404034247,
+      "lat": -1.2788433,
+      "lon": 36.8304741
+    },
+    {
+      "type": "node",
+      "id": 1450227186,
+      "lat": -1.2775976,
+      "lon": 36.8299529
+    },
+    {
+      "type": "node",
+      "id": 1450227187,
+      "lat": -1.2775227,
+      "lon": 36.8298164
+    },
+    {
+      "type": "node",
+      "id": 1450227191,
+      "lat": -1.2777382,
+      "lon": 36.8298757
+    },
+    {
+      "type": "node",
+      "id": 1450227192,
+      "lat": -1.2776633,
+      "lon": 36.8297392
+    },
+    {
+      "type": "node",
+      "id": 1406079714,
+      "lat": -1.2879246,
+      "lon": 36.838677
+    },
+    {
+      "type": "node",
+      "id": 1406079772,
+      "lat": -1.2880411,
+      "lon": 36.8388559
+    },
+    {
+      "type": "node",
+      "id": 1406079844,
+      "lat": -1.2879755,
+      "lon": 36.8388996
+    },
+    {
+      "type": "node",
+      "id": 1406079866,
+      "lat": -1.2878587,
+      "lon": 36.8387138
+    },
+    {
+      "type": "node",
+      "id": 1435400630,
+      "lat": -1.2938948,
+      "lon": 36.8488765
+    },
+    {
+      "type": "node",
+      "id": 1435400633,
+      "lat": -1.294112,
+      "lon": 36.8488714
+    },
+    {
+      "type": "node",
+      "id": 1435400651,
+      "lat": -1.2939377,
+      "lon": 36.8489063
+    },
+    {
+      "type": "node",
+      "id": 1435400659,
+      "lat": -1.2939028,
+      "lon": 36.8488097
+    },
+    {
+      "type": "node",
+      "id": 1435400661,
+      "lat": -1.2939644,
+      "lon": 36.8488603
+    },
+    {
+      "type": "node",
+      "id": 1435400804,
+      "lat": -1.293927,
+      "lon": 36.8487453
+    },
+    {
+      "type": "node",
+      "id": 1435400807,
+      "lat": -1.2939243,
+      "lon": 36.8488338
+    },
+    {
+      "type": "node",
+      "id": 1435400824,
+      "lat": -1.2940609,
+      "lon": 36.84893
+    },
+    {
+      "type": "node",
+      "id": 2528594210,
+      "lat": -1.2930342,
+      "lon": 36.8471415
+    },
+    {
+      "type": "node",
+      "id": 2528594211,
+      "lat": -1.2930567,
+      "lon": 36.8472427
+    },
+    {
+      "type": "node",
+      "id": 2528594212,
+      "lat": -1.2928874,
+      "lon": 36.8472701
+    },
+    {
+      "type": "node",
+      "id": 2528594214,
+      "lat": -1.2928551,
+      "lon": 36.8471768
+    },
+    {
+      "type": "node",
+      "id": 2528594215,
+      "lat": -1.2928953,
+      "lon": 36.8467149
+    },
+    {
+      "type": "node",
+      "id": 2528594216,
+      "lat": -1.2929207,
+      "lon": 36.8468671
+    },
+    {
+      "type": "node",
+      "id": 2528594217,
+      "lat": -1.2927843,
+      "lon": 36.8468953
+    },
+    {
+      "type": "node",
+      "id": 2528594218,
+      "lat": -1.2927617,
+      "lon": 36.8467513
+    },
+    {
+      "type": "node",
+      "id": 6400296505,
+      "lat": -1.2932168,
+      "lon": 36.849088
+    },
+    {
+      "type": "node",
+      "id": 6400296506,
+      "lat": -1.2933937,
+      "lon": 36.8490466
+    },
+    {
+      "type": "node",
+      "id": 6400296507,
+      "lat": -1.2934546,
+      "lon": 36.8492512
+    },
+    {
+      "type": "node",
+      "id": 6400296508,
+      "lat": -1.2932679,
+      "lon": 36.8492844
+    },
+    {
+      "type": "node",
+      "id": 6400296509,
+      "lat": -1.293232,
+      "lon": 36.8492761
+    },
+    {
+      "type": "node",
+      "id": 6400296510,
+      "lat": -1.293214,
+      "lon": 36.8491752
+    },
+    {
+      "type": "node",
+      "id": 6400296511,
+      "lat": -1.2932389,
+      "lon": 36.8491627
+    },
+    {
+      "type": "node",
+      "id": 6431596663,
+      "lat": -1.2757481,
+      "lon": 36.8343612
+    },
+    {
+      "type": "node",
+      "id": 6431596664,
+      "lat": -1.2757923,
+      "lon": 36.8344766
+    },
+    {
+      "type": "node",
+      "id": 6431596665,
+      "lat": -1.2758777,
+      "lon": 36.8344438
+    },
+    {
+      "type": "node",
+      "id": 6431596666,
+      "lat": -1.2758334,
+      "lon": 36.8343285
+    },
+    {
+      "type": "node",
+      "id": 1406321502,
+      "lat": -1.2724905,
+      "lon": 36.831918
+    },
+    {
+      "type": "node",
+      "id": 1406321523,
+      "lat": -1.2724389,
+      "lon": 36.8317207
+    },
+    {
+      "type": "node",
+      "id": 1406321539,
+      "lat": -1.2725285,
+      "lon": 36.8316972
+    },
+    {
+      "type": "node",
+      "id": 1406321541,
+      "lat": -1.2725802,
+      "lon": 36.8318945
+    },
+    {
+      "type": "node",
+      "id": 1429061667,
+      "lat": -1.2720216,
+      "lon": 36.832003
+    },
+    {
+      "type": "node",
+      "id": 1429061718,
+      "lat": -1.2718951,
+      "lon": 36.8317796
+    },
+    {
+      "type": "node",
+      "id": 1429061915,
+      "lat": -1.2720737,
+      "lon": 36.8317383
+    },
+    {
+      "type": "node",
+      "id": 1429062259,
+      "lat": -1.2720967,
+      "lon": 36.8318374
+    },
+    {
+      "type": "node",
+      "id": 1429062725,
+      "lat": -1.2719891,
+      "lon": 36.8318623
+    },
+    {
+      "type": "node",
+      "id": 1429062759,
+      "lat": -1.2719505,
+      "lon": 36.8320195
+    },
+    {
+      "type": "node",
+      "id": 2534506886,
+      "lat": -1.278945,
+      "lon": 36.8488418
+    },
+    {
+      "type": "node",
+      "id": 2534506887,
+      "lat": -1.2787975,
+      "lon": 36.8494963
+    },
+    {
+      "type": "node",
+      "id": 2534506888,
+      "lat": -1.2791167,
+      "lon": 36.8495821
+    },
+    {
+      "type": "node",
+      "id": 2534506889,
+      "lat": -1.2792615,
+      "lon": 36.8489196
+    },
+    {
+      "type": "node",
+      "id": 1110140753,
+      "lat": -1.2659702,
+      "lon": 36.8490028
+    },
+    {
+      "type": "node",
+      "id": 1110140763,
+      "lat": -1.2658814,
+      "lon": 36.8488528
+    },
+    {
+      "type": "node",
+      "id": 1110140774,
+      "lat": -1.2659911,
+      "lon": 36.8488701
+    },
+    {
+      "type": "node",
+      "id": 1110140776,
+      "lat": -1.2658605,
+      "lon": 36.8489856
+    },
+    {
+      "type": "node",
+      "id": 6224915315,
+      "lat": -1.2316512,
+      "lon": 36.8759193
+    },
+    {
+      "type": "node",
+      "id": 6224915316,
+      "lat": -1.2316938,
+      "lon": 36.8758766
+    },
+    {
+      "type": "node",
+      "id": 6224915317,
+      "lat": -1.2318175,
+      "lon": 36.8759939
+    },
+    {
+      "type": "node",
+      "id": 6224915318,
+      "lat": -1.2317855,
+      "lon": 36.8760579
+    },
+    {
+      "type": "node",
+      "id": 3374602209,
+      "lat": -1.2299031,
+      "lon": 36.8784902
+    },
+    {
+      "type": "node",
+      "id": 3374602210,
+      "lat": -1.2296713,
+      "lon": 36.8783044
+    },
+    {
+      "type": "node",
+      "id": 3374602211,
+      "lat": -1.2295758,
+      "lon": 36.8784265
+    },
+    {
+      "type": "node",
+      "id": 3374602212,
+      "lat": -1.2298146,
+      "lon": 36.8786158
+    },
+    {
+      "type": "node",
+      "id": 6224915328,
+      "lat": -1.2298337,
+      "lon": 36.8784345
+    },
+    {
+      "type": "node",
+      "id": 6224915330,
+      "lat": -1.2297307,
+      "lon": 36.8785493
+    },
+    {
+      "type": "node",
+      "id": 6224915340,
+      "lat": -1.2289241,
+      "lon": 36.8792977
+    },
+    {
+      "type": "node",
+      "id": 6224915341,
+      "lat": -1.2291032,
+      "lon": 36.8794384
+    },
+    {
+      "type": "node",
+      "id": 6224915342,
+      "lat": -1.229035,
+      "lon": 36.8795323
+    },
+    {
+      "type": "node",
+      "id": 6224915343,
+      "lat": -1.2288538,
+      "lon": 36.8793766
+    },
+    {
+      "type": "node",
+      "id": 6224915357,
+      "lat": -1.2276319,
+      "lon": 36.8813879
+    },
+    {
+      "type": "node",
+      "id": 6224915358,
+      "lat": -1.227666,
+      "lon": 36.8813431
+    },
+    {
+      "type": "node",
+      "id": 6224915359,
+      "lat": -1.227762,
+      "lon": 36.8814178
+    },
+    {
+      "type": "node",
+      "id": 6224915360,
+      "lat": -1.22773,
+      "lon": 36.8814689
+    }
+  ]
+}

@@ -7,4 +7,4 @@ from .models import Station
 @admin.register(Station)
 class StationAdmin(OSMGeoAdmin):
     list_display = ('name', 'location')
-
+    list_filter = ['name', 'city', 'address']
