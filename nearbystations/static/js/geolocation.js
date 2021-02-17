@@ -1,26 +1,52 @@
-const status = document.querySelector('#status');
-const mapLink = document.querySelector('#map-link');
-
-mapLink.href = '';
-mapLink.textContent = '';
-
-function success(position) {
-  const latitude  = position.coords.latitude;
-  const longitude = position.coords.longitude;
-
-  status.textContent = '';
-  mapLink.href = `https://www.openstreetmap.org/#map=18/${latitude}/${longitude}`;
-  mapLink.textContent = `Latitude: ${latitude} °, Longitude: ${longitude} °`;
+window.onload = function () {
+    let options = {
+        enableHighAccuracy: true, //Enable high accuracy, if available
+        timeout: 1000,  // 10 seconds
+        maximumAge: 300000  //only accepts cached positions whose age is < specified no in ms
+    }
+    // Check if Geolocation object is available and pass callback function if true .Display error message if not
+    if(navigator.geolocation){
+        navigator.geolocation.getCurrentPosition(displayPosition, locationError, options);
+    }else {
+        displayError("Please Update Your Browser to use Geolocation")
+    }
 }
 
-function error() {
-  status.textContent = 'Unable to retrieve your location';
+function displayPosition(pos) {
+    document.getElementById("timestamp").innerText = new Date(pos.timestamp);
+    document.getElementById("lat").innerText = pos.coords.latitude;
+    document.getElementById("long").innerText = pos.coords.longitude;
+    document.getElementById("accuracy").innerText = pos.coords.accuracy;
+    document.getElementById("altitude").innerText = (pos.coords.altitude  );
+    document.getElementById("altitudeaccuracy").innerText = (pos.coords.altitudeAccuracy );
+    document.getElementById("heading").innerText = pos.coords.heading;
+    document.getElementById("speed").innerText = pos.coords.speed;
 }
 
-if(!navigator.geolocation) {
-  status.textContent = 'Geolocation is not supported by your browser';
-} else {
-  status.textContent = 'Locating…';
-  navigator.geolocation.getCurrentPosition(success, error);
+function displayError(msg) {
+    document.getElementById("location-details").classList.add('hide')
+    let elem = document.getElementById('errorArea');
+    elem.innerHTML = msg;
 }
 
+/* If the user blocks location access or location cannot otherwise be determined */
+function locationError(error) {
+    let msg = "";
+
+    console.log("error.message = " + error.message);
+    switch (error.code){
+        case error.PERMISSION_DENIED:
+            msg = "User does not want their location displayed"
+            break;
+        case error.POSITION_UNAVAILABLE:
+            msg = "Can't determine User's Location"
+            break;
+        case error.TIMEOUT:
+            msg = "The request for geolocation information timed out"
+            break;
+        case error.UNKNOWN_ERR:
+            msg = "An unknown error occurred"
+    }
+
+    displayError(msg)
+}
