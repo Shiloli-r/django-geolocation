@@ -1,15 +1,5 @@
 window.onload = function () {
-    let options = {
-        enableHighAccuracy: true, //Enable high accuracy, if available
-        timeout: 1000,  // 10 seconds
-        maximumAge: 300000  //only accepts cached positions whose age is < specified no in ms
-    }
-    // Check if Geolocation object is available and pass callback function if true .Display error message if not
-    if(navigator.geolocation){
-        navigator.geolocation.getCurrentPosition(displayPosition, locationError, options);
-    }else {
-        displayError("Please Update Your Browser to use Geolocation")
-    }
+    geoController.getCurrentLocation(displayPosition, displayError)
 }
 
 function displayPosition(pos) {
@@ -29,24 +19,15 @@ function displayError(msg) {
     elem.innerHTML = msg;
 }
 
-/* If the user blocks location access or location cannot otherwise be determined */
-function locationError(error) {
-    let msg = "";
-
-    console.log("error.message = " + error.message);
-    switch (error.code){
-        case error.PERMISSION_DENIED:
-            msg = "User does not want their location displayed"
-            break;
-        case error.POSITION_UNAVAILABLE:
-            msg = "Can't determine User's Location"
-            break;
-        case error.TIMEOUT:
-            msg = "The request for geolocation information timed out"
-            break;
-        case error.UNKNOWN_ERR:
-            msg = "An unknown error occurred"
+    function testGeoController() {
+      console.log(geoController.getPosition());
+      console.log(geoController.getLastError());
+      console.log(geoController.getLastMessage());
+      console.log(geoController.getOptions());
+      geoController.setOptions({
+        enableHighAccuracy: false,  // Enable high accuracy, if available
+        timeout: 5000,            // 5 seconds
+        maximumAge: 10000         // Only accept cached positions whose age is not greater than 10 seconds
+      });
+      console.log(geoController.getOptions());
     }
-
-    displayError(msg)
-}

@@ -14,6 +14,7 @@
     <p>Altitude (in meters above sea level): <span id="altitudeaccuracy"></span></p>
     <p>Heading (Degrees from true north): <span id="heading"></span></p>
     <p>Speed (in meters/second):  <span id="speed"></span></p>
+        <button onclick="testGeoController();">Test geoController</button>
     </div>
     <div id="errorArea" class=" red alert"></div>
 
@@ -36,6 +37,6 @@
 </div>
 {% endblock %}
 {% block scripts %}
+    <script src="{% static 'js/geoController.js' %}"></script>
     <script src="{% static 'js/geolocation.js' %}"></script>
-    <script src="{% static 'js/geolocation2.js' %}"></script>
 {% endblock%}
