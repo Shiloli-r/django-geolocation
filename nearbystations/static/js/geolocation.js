@@ -17,8 +17,8 @@ function displayPosition(pos) {
     document.getElementById("lat").innerText = pos.coords.latitude;
     document.getElementById("long").innerText = pos.coords.longitude;
     document.getElementById("accuracy").innerText = pos.coords.accuracy;
-    document.getElementById("altitude").innerText = (pos.coords.altitude  );
-    document.getElementById("altitudeaccuracy").innerText = (pos.coords.altitudeAccuracy );
+    document.getElementById("altitude").innerText = (pos.coords.altitude ? pos.coords.altitude : "n/a" );
+    document.getElementById("altitudeaccuracy").innerText = (pos.coords.altitudeAccuracy ? pos.coords.altitudeAccuracy : "n/a");
     document.getElementById("heading").innerText = pos.coords.heading;
     document.getElementById("speed").innerText = pos.coords.speed;
 }
