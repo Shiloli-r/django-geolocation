@@ -21,6 +21,7 @@ function displayPosition(pos) {
     document.getElementById("altitudeaccuracy").innerText = (pos.coords.altitudeAccuracy ? pos.coords.altitudeAccuracy : "n/a");
     document.getElementById("heading").innerText = pos.coords.heading;
     document.getElementById("speed").innerText = pos.coords.speed;
+    sendCoordinates(pos)
 }
 
 function displayError(msg) {
@@ -49,4 +50,15 @@ function locationError(error) {
     }
 
     displayError(msg)
+}
+
+function sendCoordinates(pos) {
+    $.ajax({
+      type: "GET",
+      url: "/",
+      data: {
+        'longitude': pos.coords.longitude,
+          'latitude': pos.coords.latitude,
+      },
+    });
 }

@@ -6,12 +6,14 @@
     <h4>Your location details</h4>
     <div id="location-details">
     <p>Timestamp: <span id="timestamp"></span></p>
-    <p>Latitude:  <span id="lat"></span></p>
-    <p>Longitude: <span id="long"></span></p>
+    <p>Latitude:  <span class="coords" id="lat"></span></p>
+    <p>Longitude: <span class="coords" id="long"></span></p>
     <p>Lat/Long Accuracy (in meters): <span id="accuracy"></span></p>
-    <p>Altitude (in meters above sea level): <span id="altitudeaccuracy"></span></p>
+    <p>Altitude (in meters above sea level): <span id="altitude"></span></p>
+    <p>Altitude Accuracy (in meters): <span id="altitudeaccuracy"></span></p>
     <p>Heading (Degrees from true north): <span id="heading"></span></p>
     <p>Speed (in meters/second):  <span id="speed"></span></p>
+
         <div class="row">
             <div class="col l3 s12">
                     <button id="startButton" onclick="startWatching()" class="btn">Start Watching</button>
@@ -20,6 +22,10 @@
                 <button id="stopButton" onclick="stopWatching()" class="btn">stop watching</button>
             </div>
         </div>
+        <a href="https://google.com/maps?q=-1.3005546,36.7948224" target="_blank">View Location on Google Maps</a> <br>
+        <a href="https://www.openstreetmap.org/#map=18/-1.3005546/36.7948224" target="_blank">View Location on Open Street Map</a>
+        <br>
+        <iframe src="https://www.openstreetmap.org/#map=18/-1.30055/36.79482" frameborder="0"></iframe>
     </div>
     <div id="errorArea" class=" red alert"></div>
 
@@ -40,6 +46,7 @@
 </div>
 {% endblock %}
 {% block scripts %}
+    <script src="{% static 'js/jquery-3.5.1.min.js' %}"></script>
     <script src="{% static 'js/geolocation.js' %}"></script>
-    <script src="{% static 'js/geoWatch.js' %}"></script>
-{% endblock%}
+<!--    <script src="{% static 'js/geoWatch.js' %}"></script>-->
+{% endblock %}
