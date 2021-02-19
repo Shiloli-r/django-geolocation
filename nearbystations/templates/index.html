@@ -3,9 +3,7 @@
 {% block body %}
 <div class="container">
     <h1>Nearby Stations</h1>
-    <div class="red-text">
-        The user location is hard coded. Improvements will be made
-    </div>
+    <h4>Your location details</h4>
     <div id="location-details">
     <p>Timestamp: <span id="timestamp"></span></p>
     <p>Latitude:  <span id="lat"></span></p>
@@ -14,15 +12,23 @@
     <p>Altitude (in meters above sea level): <span id="altitudeaccuracy"></span></p>
     <p>Heading (Degrees from true north): <span id="heading"></span></p>
     <p>Speed (in meters/second):  <span id="speed"></span></p>
+        <div class="row">
+            <div class="col l3 s12">
+                    <button id="startButton" onclick="startWatching()" class="btn">Start Watching</button>
+            </div>
+            <div class="col l3 s12">
+                <button id="stopButton" onclick="stopWatching()" class="btn">stop watching</button>
+            </div>
+        </div>
     </div>
     <div id="errorArea" class=" red alert"></div>
 
 
     <div class="container">
-    <p>Your Current Location: </p>
-    <p id = "status"></p>
-    <a id = "map-link" target="_blank"></a>
-<br>
+   <h4>These are the nearby stations</h4>
+    <div class="red-text">
+        The user location that gives these results is hard coded. Improvements will be made
+    </div>
     {% if stations %}
     <ul>
         {% for station in stations %}
@@ -31,11 +37,9 @@
     </ul>
     {% endif %}
     </div>
-
-
 </div>
 {% endblock %}
 {% block scripts %}
     <script src="{% static 'js/geolocation.js' %}"></script>
-    <script src="{% static 'js/geolocation2.js' %}"></script>
+    <script src="{% static 'js/geoWatch.js' %}"></script>
 {% endblock%}
