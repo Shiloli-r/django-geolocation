@@ -14,7 +14,6 @@ def home(request):
         latitude = request.GET.get('latitude')
         if longitude and latitude:
             user_location = Point(float(longitude), float(latitude), srid=4326)
-            print(user_location)
             stations = Station.objects.annotate(distance=Distance('location', user_location)).order_by('distance')[0:6]
             context = {
                 'stations': stations
